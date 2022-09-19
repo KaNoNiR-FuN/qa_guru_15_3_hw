@@ -68,7 +68,7 @@ public class PracticeFormTest {
                 text(email),
                 text(gender),
                 text(number),
-                text("02 " + monthOfBirth + "," + yearOfBirth),
+                text(dayOfBirth + " " + monthOfBirth + "," + yearOfBirth),
                 text(subject),
                 text(hobby),
                 text(imageName),
